@@ -1,0 +1,10 @@
+.grid-container{
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: repeat(10, 1fr);
+}
+
+span{
+    width: 5vw;
+    height: 5vh;
+}
